@@ -1,0 +1,406 @@
+fileFormatVersion: 2
+guid: 68e925d867fc48e4d9a98dfbd45eda41
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default
+    second: {fileID: 2100000, guid: 37439d16e764cf64080da70198461cdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_Terrain_1b
+    second: {fileID: 2100000, guid: 442ce57ce930bdf4daba2efcc5e62ecf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_anouncement1
+    second: {fileID: 2100000, guid: eb40ded9e543f1544a2def8d659458d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_apt_complex
+    second: {fileID: 2100000, guid: 2666b2e665ea36f499ed8c0cbc395613, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_b3
+    second: {fileID: 2100000, guid: 944b763b21e26684e94c6e0b5576f18e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_beacon
+    second: {fileID: 2100000, guid: 2bae9578b6027ec4f85649ae477cbab7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_bldg
+    second: {fileID: 2100000, guid: 45419936eea4cfb47a0cf346d5def9de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_bldg1
+    second: {fileID: 2100000, guid: 06bf701caf962d14c91e2ce776558ab3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_bldg10
+    second: {fileID: 2100000, guid: 65b0db3f0ea927549acb0f951511dcad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_bldg11
+    second: {fileID: 2100000, guid: 5e0b15038f2056b48a3d003bca32d849, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_bldg12
+    second: {fileID: 2100000, guid: de747d6c8b20a07499318b7e15fc5e5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_bldg13
+    second: {fileID: 2100000, guid: f51da478d9b06da4d83978ffafdcf7ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_bldg14
+    second: {fileID: 2100000, guid: e21e30947afb1f0499678f56d5cd5ccf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_bldg15
+    second: {fileID: 2100000, guid: de6be392e427d2a4981bc7b96e06987d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_bldg16
+    second: {fileID: 2100000, guid: bd40627bdab3cfd478deb09abdd51cf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_bldg1_1
+    second: {fileID: 2100000, guid: de661e2a55e64ae40bdcd7705702d605, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_bldg1_2
+    second: {fileID: 2100000, guid: a984ccf6158191244b97cc2c322a50c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_bldg2
+    second: {fileID: 2100000, guid: f9986c2dc5b91c84da6ac3b90e675cc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_bldg2_1
+    second: {fileID: 2100000, guid: 902dbb23245ea45448ea49090e258a2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_bldg3
+    second: {fileID: 2100000, guid: 2e95270ebdf8f2c4f8f72e7d80866814, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_bldg4
+    second: {fileID: 2100000, guid: 27976dde7af1e1f42b6fea5114c7cc1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_bldg4_1
+    second: {fileID: 2100000, guid: 6acf549f72a2c194fb2aad4f9fa64f50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_bldg5
+    second: {fileID: 2100000, guid: c01b0dc56bbf39d46a80c91faab19849, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_bldg5_1
+    second: {fileID: 2100000, guid: d61bf01c09df50c41a8221df70b54f14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_bldg6
+    second: {fileID: 2100000, guid: b2cd613447e7c31459d889ab1b5f133c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_bldg7
+    second: {fileID: 2100000, guid: 56b00b8a47a91044db6a0557e525c7e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_bldg8
+    second: {fileID: 2100000, guid: cf5a88cca92f0b34283ee2830c4d8917, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_bldg9
+    second: {fileID: 2100000, guid: 5acb88066a3ffea4faf5799b93495615, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_bldg_corp
+    second: {fileID: 2100000, guid: 0cb83f6aaa16b324583380512962326d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_bldg_scifi
+    second: {fileID: 2100000, guid: d8cff6f820739f6438eda6a76b0caadd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_bldg_scifi2
+    second: {fileID: 2100000, guid: 26a63f5aa2a5d19418d663ee3f1befb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_bldg_scifi_gothic
+    second: {fileID: 2100000, guid: af2e414d4adb7904f8c699759f1fd66c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_bldg_small
+    second: {fileID: 2100000, guid: 2e4b919f9486d754f87209ae3dc00b42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_bldg_small_1
+    second: {fileID: 2100000, guid: bf3ef9a2ba9e5b9439b3defc960027b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_bldg_sony
+    second: {fileID: 2100000, guid: 62df8402d8a868345813a3b0714769b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_bldgs
+    second: {fileID: 2100000, guid: b16e4ca645bf6ae4b9752fa6097d799f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_bldgs_sector_city1
+    second: {fileID: 2100000, guid: 247264c8006cace4889ff8a03194c56e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_floors
+    second: {fileID: 2100000, guid: 18b8ceedabe690f498aeccecded106d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_hospital
+    second: {fileID: 2100000, guid: 992b3298a29c890418b96d0c516772da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_house1a
+    second: {fileID: 2100000, guid: d948c9d131700564aa6b395fb1e496a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_light_poles
+    second: {fileID: 2100000, guid: 7425bbca12956cd4c88225188ef33be7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_light_poles_lightbulb
+    second: {fileID: 2100000, guid: 21fd1fe52e87f9d46b44328145694309, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_roof
+    second: {fileID: 2100000, guid: a2dd16c288ae07046a18e34cd41c83a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_roof2
+    second: {fileID: 2100000, guid: 81a1238dcd9f51c4190071e6c0835859, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_sector_city1
+    second: {fileID: 2100000, guid: 8c41b7b11e0fb954892b33bb8c3e1f7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_sony_sign
+    second: {fileID: 2100000, guid: d8c37950281064e4f9e65239196cee48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_w16
+    second: {fileID: 2100000, guid: ab83b9c53e7337843a2227ebf8f16903, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_walls
+    second: {fileID: 2100000, guid: 13dfe6d9708fda84c90596349a1d6e3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_walls1
+    second: {fileID: 2100000, guid: 791a1e0ae74980b449b48cf06c295c4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_windos_bldg2b
+    second: {fileID: 2100000, guid: f889aa8f01c0ff946ad6cbfedc85bfae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_windows
+    second: {fileID: 2100000, guid: 2c175fbcbdbcea24e860cf1b39e1b7a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_windows2
+    second: {fileID: 2100000, guid: d707403d873d9c84898443c1733c6833, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_windows_bldg10
+    second: {fileID: 2100000, guid: 4a854db7a8e939b43a8cc01a1f7aeb33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_windows_bldg3
+    second: {fileID: 2100000, guid: 3aaeeaf04b366924fb402efc981d5e51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_windows_bldg3_apt_complex
+    second: {fileID: 2100000, guid: 7f45316f02bc8ea43b1688bf8c24a025, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_windows_bldg4
+    second: {fileID: 2100000, guid: 4da47cb4640ed954392358dab5019bbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_windows_bldg5
+    second: {fileID: 2100000, guid: 25b4c9be72a4f904c8e073f05f7e04a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_windows_bldg6
+    second: {fileID: 2100000, guid: 1f24584427bafd046a94c47f02a318f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_windows_bldg7
+    second: {fileID: 2100000, guid: 328deb98cb201c047a1603d054494426, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: default_windows_bldg_corp
+    second: {fileID: 2100000, guid: 74bec18ec9304634f8511ee098b66c86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_1
+    second: {fileID: 2100000, guid: c34ea4760e4b33242a30f79738163deb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_2
+    second: {fileID: 2100000, guid: 7786ae811f11ecf49bd573938c03176a, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
