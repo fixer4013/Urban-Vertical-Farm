@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\marti\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\marti\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Urban Vertical Farm.-241631889.00" t="ExcludeRecursive" />
+    <e p="P:\School stuff\Year 3\Minor FTS project\Urban Vertical Farm" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="AllSkyFree" t="Include">
+          <e p="AllSkyFree_Menu.cs" t="Include" />
+          <e p="AllSkyFree_Readme.txt" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="wild town" t="Include">
+            <e p="Maps" t="Include">
+              <e p="readme.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="PlayerMovement.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="Mouselook.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Urban Vertical Farm.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
