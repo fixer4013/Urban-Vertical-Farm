@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\marti\.Rider2019.2\system\extResources" t="IncludeRecursive" />
@@ -10,6 +10,7 @@
           <e p="AllSkyFree_Menu.cs" t="Include" />
           <e p="AllSkyFree_Readme.txt" t="Include" />
         </e>
+        <e p="LightShadowBias.cs" t="Include" />
         <e p="Models" t="Include">
           <e p="wild town" t="Include">
             <e p="Maps" t="Include">
@@ -17,9 +18,10 @@
             </e>
           </e>
         </e>
-        <e p="PlayerMovement.cs" t="Include" />
         <e p="Scripts" t="Include">
           <e p="Mouselook.cs" t="Include" />
+          <e p="next_scene.cs" t="Include" />
+          <e p="PlayerMovement.cs" t="Include" />
         </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />
